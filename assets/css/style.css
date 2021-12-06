@@ -1,0 +1,49 @@
+body{
+  background-color:#000000;
+  font-family: 'Open Sans', sans-serif;
+}
+/* personalizando navbar y encabezados */
+.nav-link1 img{
+  width: 6%;
+}
+hr{
+ border-top: 5px solid #23776c;
+}
+h1{
+  color:#ffffff;
+}
+/* personalizado del icono */
+.icofondo{
+  background-color:#23776c;
+  height:18%;
+  color:#ffffff;
+}
+.mcolor{
+  background-color: #23776c;
+  border-radius: 0.5rem;
+  }
+  /*Personalizando las card  */
+.card { background-color: #23776c;
+  text-align: center;
+}
+.carta2 {
+  align-items: center;
+  align-content: center;
+  }
+.persona-card{
+  font-weight: 600;
+}
+/* personalizando la barra del footer */
+.barra-link{
+  background-color:#23776c;
+}
+/* personalisando formulario contacto */
+.btn-contac { 
+  background-color:  #23776c;
+  border:none;
+}
+#exampleCheck1{
+  display:inline-block;
+  height:1rem;
+  background-color:#23776c;
+}
